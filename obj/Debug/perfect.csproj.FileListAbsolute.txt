@@ -1,0 +1,7 @@
+C:\Users\power\source\repos\perfect\perfect\bin\Debug\perfect.exe.config
+C:\Users\power\source\repos\perfect\perfect\bin\Debug\perfect.exe
+C:\Users\power\source\repos\perfect\perfect\bin\Debug\perfect.pdb
+C:\Users\power\source\repos\perfect\perfect\obj\Debug\perfect.csprojAssemblyReference.cache
+C:\Users\power\source\repos\perfect\perfect\obj\Debug\perfect.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\perfect\perfect\obj\Debug\perfect.exe
+C:\Users\power\source\repos\perfect\perfect\obj\Debug\perfect.pdb
